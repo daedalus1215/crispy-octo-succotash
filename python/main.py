@@ -1,8 +1,8 @@
-from python.blogs.application.blogs_controller import BlogsA0Controller
+from blogs.application.blogs_controller.blogs_controller_factory import BlogsControllerFactory
 
 
 def main() -> None:
-    blog_controller = BlogsA0Controller()
+    blog_controller = BlogsControllerFactory.create()
 
     print("=== Blog Controller with Audit Trail Demo ===\n")
 
