@@ -1,4 +1,4 @@
-from blogs.blogs_controller import BlogsA0Controller
+from python.blogs.application.blogs_controller import BlogsA0Controller
 
 
 def main() -> None:
