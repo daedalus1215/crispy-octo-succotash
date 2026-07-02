@@ -8,7 +8,7 @@
 
 We need a Senior Engineer to join our platform team and help scale engineering output across two teams building event-driven systems in AWS. This role partners with the Principal Engineer and a Senior Engineer (your peer) to translate product requirements into executable work, maintain code quality, and grow toward Staff-level responsibilities.
 
-This is not an AI specialist position. Our Principal owns AI architecture. This role exists to accelerate delivery through solid systems design, spec-driven work breakdown, and rigorous code review — while exposing you to the patterns and practices that define Staff-level engineering.
+This role accelerates delivery through solid systems design, spec-driven work breakdown, and rigorous code review — while exposing you to the patterns and practices that define Staff-level engineering.
 
 ---
 

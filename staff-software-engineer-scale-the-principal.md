@@ -6,7 +6,7 @@
 
 ## The Role
 
-We need a Staff Engineer to partner with our Principal Engineer (who owns platform architecture and AI initiatives) to scale engineering output across two teams. This is not an AI specialist role — the Principal already owns AI architecture. This role exists to absorb systems design, spec authorship, code review, and product-to-engineering translation so the Principal can focus on platform-level initiatives.
+We need a Staff Engineer to partner with our Principal Engineer to scale engineering output across two teams. This role absorbs systems design, spec authorship, code review, and product-to-engineering translation so the Principal can focus on high-leverage architecture initiatives.
 
 You will collaborate directly with the Principal to:
 - Design service boundaries and maintain architectural diagrams (C4, ERD, sequence)
